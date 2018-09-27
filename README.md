@@ -1,4 +1,4 @@
-# mimblewimble-awesome
+# MimbleWimble & Grin resources
 
 ## MimbleWimble
 
