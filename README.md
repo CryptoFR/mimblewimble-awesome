@@ -12,7 +12,9 @@
 
 ### Videos
 
+- [MimbleWimble: Private, Massively-Prunable Blockchains - Andrew Poelstra 2016](https://www.youtube.com/watch?v=aHTRlbCaUyM&t=1805s)
 - [MimbleWimble and Scriptless Scripts - Andrew Poelstra - Merkle Week 2017](https://www.youtube.com/watch?time_continue=28&v=BoKDql4F9NY)
+- [Bitcoin Q&A: MimbleWimble and Dandelion - Andreas M. Antonopoulos](https://www.youtube.com/watch?v=LjDJGTpK_lE&feature=youtu.be)
 
 ## Grin
 
@@ -27,3 +29,7 @@
 ### Articles
 
 - [First Grin atomic swap - GrinSwap](https://medium.com/grinswap/first-grin-atomic-swap-a16b4cc19196)
+
+### Videos
+
+- [Pirates Parley | Grin Developer Michael Cordner aka YeastPlume - Captain Crypto Show](https://www.youtube.com/watch?v=nwi9pMqUBQI)
