@@ -12,7 +12,9 @@
 
 ### Videos
 
+- [MimbleWimble: Private, Massively-Prunable Blockchains - Andrew Poelstra 2016](https://www.youtube.com/watch?v=aHTRlbCaUyM&t=1805s)
 - [MimbleWimble and Scriptless Scripts - Andrew Poelstra - Merkle Week 2017](https://www.youtube.com/watch?time_continue=28&v=BoKDql4F9NY)
+- [Bitcoin Q&A: MimbleWimble and Dandelion - Andreas M. Antonopoulos](https://www.youtube.com/watch?v=LjDJGTpK_lE&feature=youtu.be)
 
 ## Grin
 
