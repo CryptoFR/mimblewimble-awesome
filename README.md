@@ -29,3 +29,7 @@
 ### Articles
 
 - [First Grin atomic swap - GrinSwap](https://medium.com/grinswap/first-grin-atomic-swap-a16b4cc19196)
+
+### Videos
+
+- [Pirates Parley | Grin Developer Michael Cordner aka YeastPlume - Captain Crypto Show](https://www.youtube.com/watch?v=nwi9pMqUBQI)
