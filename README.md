@@ -25,10 +25,13 @@
 ### Pools
 
 - [Grin Mint](http://www.grinmint.com)
+- [Grin-Pool GitHub](https://github.com/grin-pool/grin-pool)
 
 ### Articles
 
 - [First Grin atomic swap - GrinSwap](https://medium.com/grinswap/first-grin-atomic-swap-a16b4cc19196)
+- [Grin vs. BEAM, a Comparison](https://tlu.tarilabs.com/protocols/grin-beam-comparison/MainReport.html)
+- [The Everyday Thinfoilhead: A USB Armory with a Mimblewimble Grin Wallet](https://medium.com/@sky_hard/the-everyday-lightweight-thinfoilhead-a-mimblewimble-grin-wallet-on-an-usb-armory-c4c3862a8a1b)
 
 ### Videos
 
