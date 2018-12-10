@@ -26,6 +26,7 @@
 
 - [Grin Mint](http://www.grinmint.com)
 - [Grin-Pool GitHub](https://github.com/grin-pool/grin-pool)
+- [Grin GPU Miner (Windows)](https://github.com/mozkomor/GrinGoldMiner)
 
 ### Articles
 
